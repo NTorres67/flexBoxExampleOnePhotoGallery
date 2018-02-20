@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "flexBoxExampleOnePhotoGallery", "flexBoxExampleOnePhotoGallery\", "{ADD1DFAF-3CEA-439A-B2C5-EA20B48CA740}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60929"
+		Debug.AspNetCompiler.PhysicalPath = "flexBoxExampleOnePhotoGallery\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60929\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60929"
+		Release.AspNetCompiler.PhysicalPath = "flexBoxExampleOnePhotoGallery\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60929\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60929"
+		SlnRelativePath = "flexBoxExampleOnePhotoGallery\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD1DFAF-3CEA-439A-B2C5-EA20B48CA740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD1DFAF-3CEA-439A-B2C5-EA20B48CA740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194B5DBC-3F36-493A-9519-7AD68E731302}
+	EndGlobalSection
+EndGlobal
